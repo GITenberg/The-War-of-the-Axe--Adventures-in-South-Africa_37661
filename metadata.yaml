@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '38984'
     url: http://www.gutenberg.org/2009/agents/38984
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37661#The-War-of-the-Axe--Adventures-in-South-Africa
 gutenberg_issued: '2011-10-08'
 gutenberg_type: Text
 identifiers:
