@@ -1,0 +1,34 @@
+_repo: The-War-of-the-Axe--Adventures-in-South-Africa_37661
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schönberg, John
+    alias: Schonberg, John
+    gutenberg_agent_id: '9891'
+    url: http://www.gutenberg.org/2009/agents/9891
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Groves, J. Percy (John Percy)
+    aliases:
+    - Percy-Groves, J.
+    - Groves, John Percy
+    gutenberg_agent_id: '38984'
+    url: http://www.gutenberg.org/2009/agents/38984
+description: ''
+gutenberg_issued: '2011-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37661'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcc 'PR'
+- !lcsh 'South Africa -- History -- Frontier Wars, 1811-1878 -- Fiction'
+title: The War of the Axe; Or, Adventures in South Africa
+url: http://www.gutenberg.org/ebooks/37661
